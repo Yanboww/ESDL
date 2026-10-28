@@ -9,3 +9,8 @@ Instructions
 4. Connect PA6 to SCK
 5. Connect PA7 to SS (CS)
 6. Run BaudReset
+
+
+Acknowledgments
+
+Worked with [Pranay](https://github.com/Pranay0S), a former senior lab assistant at ESDL.
